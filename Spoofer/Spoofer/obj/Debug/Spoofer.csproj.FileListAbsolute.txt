@@ -1,0 +1,14 @@
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\bin\Debug\Spoofer.exe.config
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\bin\Debug\Spoofer.exe
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\bin\Debug\Spoofer.pdb
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.csproj.AssemblyReference.cache
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\MainWindow.baml
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\MainWindow.g.cs
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\App.g.cs
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer_MarkupCompile.cache
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.g.resources
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.Properties.Resources.resources
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.csproj.GenerateResource.cache
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.exe
+C:\Users\qqewe\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.pdb
